@@ -1,0 +1,5 @@
+
+        <svg width="200px" height="200px">
+            	<polygon points="50 15, 100 100, 0 100" style="fill:black;"/>
+                <text x="50" y="60" dominant-baseline="middle" text-anchor="middle" fill="white">GLB</text>
+        </svg>
