@@ -5,10 +5,10 @@
 
 ## Table of Contents:
 - [Description](#Description)
-- [UserStory] (#User-Story)
-- [Acceptance-Criteria] (#Acceptance-Criteria)
+- [User Story] (#User-Story)
+- [Acceptance Criteria] (#Acceptance-Criteria)
 - [Usage](#Usage)
-- [Walkthrough-Video] (#Walkthrough-Video)
+- [Walkthrough Video] (#Walkthrough-Video)
 - [License](#License)
 - [Questions](#Questions)
 
