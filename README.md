@@ -5,7 +5,7 @@
 
 ## Table of Contents:
 - [Description](#Description)
-- [User-Story] (#User-Story)
+- [UserStory] (#User-Story)
 - [Acceptance-Criteria] (#Acceptance-Criteria)
 - [Usage](#Usage)
 - [Walkthrough-Video] (#Walkthrough-Video)
