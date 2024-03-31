@@ -47,8 +47,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 5. Once completed a SVG file named "logo.svg" will be created.
 
 ## Walkthrough Video:
-[Click Here to Watch](<iframe src="https://drive.google.com/file/d/1hCJl4Gl6EJACs0Dj-bgbdKYknGywa--J/preview" width="640" height="480"></iframe>)
-
+<a href="https://drive.google.com/file/d/1hCJl4Gl6EJACs0Dj-bgbdKYknGywa--J/preview">Click Here to Watch</a>
 
 ## License 
 MIT
